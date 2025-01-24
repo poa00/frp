@@ -9,15 +9,30 @@
 
 frp 是一个专注于内网穿透的高性能的反向代理应用，支持 TCP、UDP、HTTP、HTTPS 等多种协议，且支持 P2P 通信。可以将内网服务以安全、便捷的方式通过具有公网 IP 节点的中转暴露到公网。
 
+## Sponsors
+
+frp 是一个完全开源的项目，我们的开发工作完全依靠赞助者们的支持。如果你愿意加入他们的行列，请考虑 [赞助 frp 的开发](https://github.com/sponsors/fatedier)。
+
 <h3 align="center">Gold Sponsors</h3>
 <!--gold sponsors start-->
 <p align="center">
-  <a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=frp&utm_source=github" target="_blank">
-    <img width="350px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_workos.png">
+  <a href="https://jb.gg/frp" target="_blank">
+    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_jetbrains.jpg">
   </a>
-  <a>&nbsp</a>
+</p>
+<p align="center">
+  <a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=frp&utm_source=github" target="_blank">
+    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_workos.png">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/daytonaio/daytona" target="_blank">
-    <img width="360px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_daytona.png">
+    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_daytona.png">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/beclab/Olares" target="_blank">
+    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_olares.jpeg">
   </a>
 </p>
 <!--gold sponsors end-->
@@ -89,7 +104,7 @@ frp 是一个免费且开源的项目，我们欢迎任何人为其开发和进�
 
 您可以通过 [GitHub Sponsors](https://github.com/sponsors/fatedier) 赞助我们。
 
-国内用户可以通过 [爱发电](https://afdian.net/a/fatedier) 赞助我们。
+国内用户可以通过 [爱发电](https://afdian.com/a/fatedier) 赞助我们。
 
 企业赞助者可以将贵公司的 Logo 以及链接放置在项目 README 文件中。
 
